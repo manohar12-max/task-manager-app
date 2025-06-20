@@ -117,5 +117,10 @@ JWT_SECRET=task-manager-app
 ## Screenshots
 
 ![Login Preview](./frontend/public/login.png) 
+![Register Preview](./frontend/public/register.png) 
+![Dashboard Preview](./frontend/public/dashboard.png) 
+![Create Form Preview](./frontend/public/from-create.png) 
+![Export Preview](./frontend/public/export.png) 
+
 
 
