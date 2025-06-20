@@ -56,13 +56,13 @@ function Navbar() {
             <>
               <button
                 onClick={() => navigate("/login")}
-                className="bg-white text-blue-700 px-3 py-1 rounded hover:bg-slate-100 transition text-sm"
+                className="bg-white text-blue-700 px-3 py-1 rounded hover:bg-slate-100 transition text-sm cursor-pointer"
               >
                 Login
               </button>
               <button
                 onClick={() => navigate("/register")}
-                className="bg-white text-blue-700 px-3 py-1 rounded hover:bg-slate-100 transition text-sm"
+                className="bg-white text-blue-700 px-3 py-1 rounded hover:bg-slate-100 transition text-sm cursor-pointer"
               >
                 Register
               </button>
