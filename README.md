@@ -114,6 +114,8 @@ JWT_SECRET=task-manager-app
 5. Export tasks to Excel file
 6. Enjoy a smooth UI with toasts and responsiveness
 
+## Screenshots
 
+![Login Preview](./public/login.png) 
 
 
