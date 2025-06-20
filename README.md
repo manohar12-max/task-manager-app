@@ -116,6 +116,6 @@ JWT_SECRET=task-manager-app
 
 ## Screenshots
 
-![Login Preview](./public/login.png) 
+![Login Preview](./frontend/public/login.png) 
 
 
