@@ -1,7 +1,7 @@
 {
   "projects": [
     {
-      "name": "task-manager-app",
+      "name": "frontend",
       "rootDirectory": "frontend"
     }
   ]
